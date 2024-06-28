@@ -40,7 +40,7 @@ After a quick review of the dataset it can be discovered the dataset has the fol
 
 ## Conclusions
 
-In conclusion the retail_sale_dataset comprises of detailed information that can be used for well analysis that can drive business decision and improve sales and marketing. 
+In conclusion the retail_sale_dataset comprises of detailed information that can be used for well analysis that can drive business decision and improve sales and marketing. Further analysis can be done to determine the most expensive, the most indemand product, as well as the most expensive order and cheapest order. 
 ## References
 
 Kaggle:https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
