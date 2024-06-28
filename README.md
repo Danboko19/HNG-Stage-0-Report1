@@ -32,3 +32,10 @@ After a quick review of the dataset it can be discovered the dataset has the fol
 3. Country Analysis: A country analysis was done to determined the five countries with the most order and USA lead the race in this aspect as well as other aspect. Refer to the illustrations below to view the top 5 countries with the most orders 
 ## Conclusions
 
+In conclusion the retail_sale_dataset comprises of detailed information that can be used for well analysis that can drive business decision and improve sales and marketing. 
+## References
+
+Kaggle:https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
+
+HNG_11_internship: https://hng.tech/internship, 
+https://hng.tech/hire. 
