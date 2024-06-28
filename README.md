@@ -30,8 +30,12 @@ After a quick review of the dataset it can be discovered the dataset has the fol
 
 
 3. Regional Analysis: as the dataset shown the territory of each customer that made each transaction, an regional analysis was conducted base on that and it's discovered that "NA" which stand for "North American" made the most order and classic was the most sort after there. Vintage cars came second and motorcycle follows.whicle plane was the second most sort after on Japan even though it came second to the last in the rest of the region  as shown by the illustration below.
+4. ![Classic cars](https://github.com/Danboko19/HNG-Stage-0-Report1/assets/148493509/6d420344-f91c-482a-b35d-1848e50d9fec)
 
-4. Country Analysis: A country analysis was done to determined the five countries with the most order and USA lead the race in this aspect as well as other aspect. Refer to the illustrations below to view the top 5 countries with the most orders 
+
+5. Country Analysis: A country analysis was done to determined the five countries with the most order and USA lead the race in this aspect as well as other aspect. Refer to the illustrations below to view the top 5 countries with the most orders.
+6. ![Top 5 countries](https://github.com/Danboko19/HNG-Stage-0-Report1/assets/148493509/b4c95df3-e30d-448e-9fdd-9b68f582ac04)
+
 ## Conclusions
 
 In conclusion the retail_sale_dataset comprises of detailed information that can be used for well analysis that can drive business decision and improve sales and marketing. 
