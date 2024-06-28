@@ -25,11 +25,12 @@ After a quick review of the dataset it can be discovered the dataset has the fol
   
 3. The dataset include productline which shows the producttype been ordered which allow a data analyst to conduct seasonal, and regional analysis base on product type 
 ## Observations
-1. Monthly Trend: after quick analysis of the dataset, it can be confirmed that November is the month with the most order in both year since the last year record stopped at may.and October came next to it. It recorded a total of  in 2003 and in 2004, while march was the lowest in 2003 and July in 2004 as shown in the illustration below. 
+1. Monthly Trend: after quick analysis of the dataset, it can be confirmed that November is the month with the most order in both year since the last year record stopped at may.and October came next to it. It recorded a total of  in 2003 and in 2004, while march was the lowest in 2003 and July in 2004 as shown in the illustration below.
+2.  ![yearly analysis](https://github.com/Danboko19/HNG-Stage-0-Report1/assets/148493509/6c58c2ff-2fe5-451d-96d8-d548ea7efc54
 
-2. Regional Analysis: as the dataset shown the territory of each customer that made each transaction, an regional analysis was conducted base on that and it's discovered that "NA" which stand for "North American" made the most order and classic was the most sort after there. Vintage cars came second and motorcycle follows.whicle plane was the second most sort after on Japan even though it came second to the last in the rest of the region  as shown by the illustration below.
+3. Regional Analysis: as the dataset shown the territory of each customer that made each transaction, an regional analysis was conducted base on that and it's discovered that "NA" which stand for "North American" made the most order and classic was the most sort after there. Vintage cars came second and motorcycle follows.whicle plane was the second most sort after on Japan even though it came second to the last in the rest of the region  as shown by the illustration below.
 
-3. Country Analysis: A country analysis was done to determined the five countries with the most order and USA lead the race in this aspect as well as other aspect. Refer to the illustrations below to view the top 5 countries with the most orders 
+4. Country Analysis: A country analysis was done to determined the five countries with the most order and USA lead the race in this aspect as well as other aspect. Refer to the illustrations below to view the top 5 countries with the most orders 
 ## Conclusions
 
 In conclusion the retail_sale_dataset comprises of detailed information that can be used for well analysis that can drive business decision and improve sales and marketing. 
