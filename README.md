@@ -45,5 +45,5 @@ In conclusion the retail_sale_dataset comprises of detailed information that can
 
 Kaggle:https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 
-HNG_11_internship: https://hng.tech/internship, 
-https://hng.tech/hire. 
+HNG_11_internship: https://hng.tech/internship learn from the best in the game and become a wordclass
+https://hng.tech/hire start your journey to become a world-class developer
