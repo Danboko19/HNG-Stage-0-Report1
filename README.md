@@ -12,5 +12,6 @@ After a quick review of the dataset it can be discovered the dataset has the fol
 2. It recorded the transactions details of the customer including  their contact address and phone, this suggest that an analysis can be made to discovered the trend in the country
 3. The dataset include productline which shows the producttype been ordered which allow a data analyst to conduct seasonal, and regional analysis base on product type 
 ## Observations
-Monthly Trend: after quick analysis of the dataset, it can be confirmed that November is the month with the most order in both year since the last year record stopped at may.and October came next to it. It recorded a total of  in 2003 and in 2004, while march was the lowest in 2003 and July in 2004 as shown in the illustration below
+### Monthly Trend:.
+after quick analysis of the dataset, it can be confirmed that November is the month with the most order in both year since the last year record stopped at may.and October came next to it. It recorded a total of  in 2003 and in 2004, while march was the lowest in 2003 and July in 2004 as shown in the illustration below. 
 Regional Analysis:
